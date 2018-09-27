@@ -1,6 +1,11 @@
 # About this Repo
 Minimal PHP and NGINX setup derived from official PHP and NGINX images built on Alpine 3.8.
 
+[![Docker Stars](https://img.shields.io/docker/stars/pritkin/php-nginx.svg)](https://hub.docker.com/r/pritkin/php-nginx/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/pritkin/php-nginx.svg)](https://hub.docker.com/r/pritkin/php-nginx/)
+[![Docker Automated build](https://img.shields.io/docker/automated/pritkin/php-nginx.svg)](https://hub.docker.com/r/pritkin/php-nginx/builds/)
+[![Build Status](https://travis-ci.org/magierjones/docker-php-nginx.svg?branch=master)](https://travis-ci.org/magierjones/docker-php-nginx)
+
 ## Usage
 
 ### Server
